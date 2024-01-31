@@ -1,0 +1,2842 @@
+[2023/06/27 19:52:04] - Shape: (12, 3, 197, 64)
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 0; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 120
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 119
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 115
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 1; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 30
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 30
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 29
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 28
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 2; Head: 0
+[2023/06/27 19:52:04] - global tokens: 70
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 269
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 267
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 128
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 127
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 840
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 744
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 140
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 767
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 381.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 745
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 3; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 54
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 54
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 54
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 54
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 4; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 75
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 74
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 5; Head: 0
+[2023/06/27 19:52:04] - global tokens: 20
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 219
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 217
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 178
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 177
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 300
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 270
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 40
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 269
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 531.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 269
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 6; Head: 0
+[2023/06/27 19:52:04] - global tokens: 17
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 216
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 214
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 181
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 180
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 255
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 213
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 34
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 224
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 540.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 211
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 7; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 84
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 82
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 8; Head: 0
+[2023/06/27 19:52:04] - global tokens: 1
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 198
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 33
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 33
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 32
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 588.0
+[2023/06/27 19:52:04] - Sparse SpMM PE caclulation | cycles: 31
+[2023/06/27 19:52:04] - ******************************
+[2023/06/27 19:52:04] - Layer: 9; Head: 0
+[2023/06/27 19:52:04] - global tokens: 9
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 208
+[2023/06/27 19:52:04] - Dense SpMM decoder | cycles: 206
+[2023/06/27 19:52:04] - Sparse SpMM dataloader | cycles: 189
+[2023/06/27 19:52:04] - Sparse SpMM decoder | cycles: 188
+[2023/06/27 19:52:04] - Dense SDMM PE caclulation | cycles: 135
+[2023/06/27 19:52:04] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 19:52:04] - ************
+[2023/06/27 19:52:04] - Dense SpMM dataloader | cycles: 18
+[2023/06/27 19:52:04] - Dense SpMM PE caclulation | cycles: 121
+[2023/06/27 19:52:05] - Sparse SpMM dataloader | cycles: 564.0
+[2023/06/27 19:52:05] - Sparse SpMM PE caclulation | cycles: 116
+[2023/06/27 19:52:05] - ******************************
+[2023/06/27 19:52:05] - Layer: 10; Head: 0
+[2023/06/27 19:52:05] - global tokens: 10
+[2023/06/27 19:52:05] - Dense SpMM dataloader | cycles: 209
+[2023/06/27 19:52:05] - Dense SpMM decoder | cycles: 207
+[2023/06/27 19:52:05] - Sparse SpMM dataloader | cycles: 188
+[2023/06/27 19:52:05] - Sparse SpMM decoder | cycles: 187
+[2023/06/27 19:52:05] - Dense SDMM PE caclulation | cycles: 150
+[2023/06/27 19:52:05] - Sparse SDMM PE caclulation | cycles: 138
+[2023/06/27 19:52:05] - ************
+[2023/06/27 19:52:05] - Dense SpMM dataloader | cycles: 20
+[2023/06/27 19:52:05] - Dense SpMM PE caclulation | cycles: 145
+[2023/06/27 19:52:05] - Sparse SpMM dataloader | cycles: 561.0
+[2023/06/27 19:52:05] - Sparse SpMM PE caclulation | cycles: 136
+[2023/06/27 19:52:05] - ******************************
+[2023/06/27 19:52:05] - Layer: 11; Head: 0
+[2023/06/27 19:52:05] - global tokens: 31
+[2023/06/27 19:52:05] - Dense SpMM dataloader | cycles: 230
+[2023/06/27 19:52:05] - Dense SpMM decoder | cycles: 228
+[2023/06/27 19:52:05] - Sparse SpMM dataloader | cycles: 167
+[2023/06/27 19:52:05] - Sparse SpMM decoder | cycles: 166
+[2023/06/27 19:52:05] - Dense SDMM PE caclulation | cycles: 372
+[2023/06/27 19:52:05] - Sparse SDMM PE caclulation | cycles: 303
+[2023/06/27 19:52:05] - ************
+[2023/06/27 19:52:05] - Dense SpMM dataloader | cycles: 62
+[2023/06/27 19:52:05] - Dense SpMM PE caclulation | cycles: 316
+[2023/06/27 19:52:05] - Sparse SpMM dataloader | cycles: 498.0
+[2023/06/27 19:52:05] - Sparse SpMM PE caclulation | cycles: 301
+[2023/06/27 19:52:05] - 
+[2023/06/27 19:52:05] - ******************************
+[2023/06/27 19:52:05] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/06/27 19:52:05] - total preloading cycles: 11693.0
+[2023/06/27 19:52:05] - total processing cycles: 4728
+[2023/06/27 19:52:05] - total Computation cycles: 4709
+[2023/06/27 19:52:05] - 
+[2023/06/27 19:52:05] - ******************************
+[2023/06/27 19:52:05] - Total cycles: 11693.0
+[2023/06/27 20:54:10] - Shape: (12, 3, 197, 64)
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 0; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 1; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 2; Head: 0
+[2023/06/27 20:54:10] - global tokens: 70
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 3; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 4; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 5; Head: 0
+[2023/06/27 20:54:10] - global tokens: 20
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 6; Head: 0
+[2023/06/27 20:54:10] - global tokens: 17
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 7; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 8; Head: 0
+[2023/06/27 20:54:10] - global tokens: 1
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 9; Head: 0
+[2023/06/27 20:54:10] - global tokens: 9
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 10; Head: 0
+[2023/06/27 20:54:10] - global tokens: 10
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Layer: 11; Head: 0
+[2023/06/27 20:54:10] - global tokens: 31
+[2023/06/27 20:54:10] - 
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - number of non-zeros in the sparser region: 0.0
+[2023/06/27 20:54:10] - total preloading cycles: 0
+[2023/06/27 20:54:10] - total processing cycles: 0
+[2023/06/27 20:54:10] - total Computation cycles: 0
+[2023/06/27 20:54:10] - 
+[2023/06/27 20:54:10] - ******************************
+[2023/06/27 20:54:10] - Total cycles: 0
+[2023/06/27 20:55:39] - Shape: (12, 3, 197, 64)
+[2023/06/27 20:55:39] - ******************************
+[2023/06/27 20:55:39] - Layer: 0; Head: 0
+[2023/06/27 20:55:39] - global tokens: 1
+[2023/06/27 20:55:53] - Shape: (12, 3, 197, 64)
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 0; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 1; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 2; Head: 0
+[2023/06/27 20:55:53] - global tokens: 70
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 3; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 4; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 5; Head: 0
+[2023/06/27 20:55:53] - global tokens: 20
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 6; Head: 0
+[2023/06/27 20:55:53] - global tokens: 17
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 7; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 8; Head: 0
+[2023/06/27 20:55:53] - global tokens: 1
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 9; Head: 0
+[2023/06/27 20:55:53] - global tokens: 9
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 10; Head: 0
+[2023/06/27 20:55:53] - global tokens: 10
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Layer: 11; Head: 0
+[2023/06/27 20:55:53] - global tokens: 31
+[2023/06/27 20:55:53] - 
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - number of non-zeros in the sparser region: 0.0
+[2023/06/27 20:55:53] - total preloading cycles: 0
+[2023/06/27 20:55:53] - total processing cycles: 0
+[2023/06/27 20:55:53] - total Computation cycles: 0
+[2023/06/27 20:55:53] - 
+[2023/06/27 20:55:53] - ******************************
+[2023/06/27 20:55:53] - Total cycles: 0
+[2023/06/27 21:16:22] - Shape: (12, 3, 197, 64)
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 0; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 120
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 119
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 115
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 1; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 30
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 30
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 29
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 28
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 2; Head: 0
+[2023/06/27 21:16:22] - global tokens: 70
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 269
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 267
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 128
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 127
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 840
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 744
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 140
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 767
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 254
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 745
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 3; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 54
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 54
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 54
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 54
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 4; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 75
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 74
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 5; Head: 0
+[2023/06/27 21:16:22] - global tokens: 20
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 219
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 217
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 178
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 177
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 300
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 270
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 40
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 269
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 354
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 269
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 6; Head: 0
+[2023/06/27 21:16:22] - global tokens: 17
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 216
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 214
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 181
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 180
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 255
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 213
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 34
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 224
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 360
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 211
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 7; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 84
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 82
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 8; Head: 0
+[2023/06/27 21:16:22] - global tokens: 1
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 33
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 33
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 32
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 31
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 9; Head: 0
+[2023/06/27 21:16:22] - global tokens: 9
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 208
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 206
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 189
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 188
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 135
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 18
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 121
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 376
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 116
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 10; Head: 0
+[2023/06/27 21:16:22] - global tokens: 10
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 209
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 207
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 188
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 187
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 150
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 138
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 20
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 145
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 374
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 136
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Layer: 11; Head: 0
+[2023/06/27 21:16:22] - global tokens: 31
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 230
+[2023/06/27 21:16:22] - Dense SpMM decoder | cycles: 228
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 167
+[2023/06/27 21:16:22] - Sparse SpMM decoder | cycles: 166
+[2023/06/27 21:16:22] - Dense SDMM PE caclulation | cycles: 372
+[2023/06/27 21:16:22] - Sparse SDMM PE caclulation | cycles: 303
+[2023/06/27 21:16:22] - ************
+[2023/06/27 21:16:22] - Dense SpMM dataloader | cycles: 62
+[2023/06/27 21:16:22] - Dense SpMM PE caclulation | cycles: 316
+[2023/06/27 21:16:22] - Sparse SpMM dataloader | cycles: 332
+[2023/06/27 21:16:22] - Sparse SpMM PE caclulation | cycles: 301
+[2023/06/27 21:16:22] - 
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/06/27 21:16:22] - total preloading cycles: 9492
+[2023/06/27 21:16:22] - total processing cycles: 4728
+[2023/06/27 21:16:22] - total Computation cycles: 4709
+[2023/06/27 21:16:22] - 
+[2023/06/27 21:16:22] - ******************************
+[2023/06/27 21:16:22] - Total cycles: 9492
+[2023/06/27 21:22:13] - Shape: (12, 3, 197, 64)
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 0; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 120
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 119
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 115
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 1; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 30
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 30
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 29
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 28
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 2; Head: 0
+[2023/06/27 21:22:13] - global tokens: 70
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 269
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 267
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 128
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 127
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 840
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 744
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 140
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 767
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 254
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 745
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 3; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 54
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 54
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 54
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 54
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 4; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 75
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 74
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 5; Head: 0
+[2023/06/27 21:22:13] - global tokens: 20
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 219
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 217
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 178
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 177
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 300
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 270
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 40
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 269
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 354
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 269
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 6; Head: 0
+[2023/06/27 21:22:13] - global tokens: 17
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 216
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 214
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 181
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 180
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 255
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 213
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 34
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 224
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 360
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 211
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 7; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 87
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 84
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 85
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 82
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 8; Head: 0
+[2023/06/27 21:22:13] - global tokens: 1
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 200
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 198
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 197
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 196
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 33
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 33
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 2
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 32
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 392
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 31
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 9; Head: 0
+[2023/06/27 21:22:13] - global tokens: 9
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 208
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 206
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 189
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 188
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 135
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 117
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 18
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 121
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 376
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 116
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 10; Head: 0
+[2023/06/27 21:22:13] - global tokens: 10
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 209
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 207
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 188
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 187
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 150
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 138
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 20
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 145
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 374
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 136
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Layer: 11; Head: 0
+[2023/06/27 21:22:13] - global tokens: 31
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 230
+[2023/06/27 21:22:13] - Dense SpMM decoder | cycles: 228
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 167
+[2023/06/27 21:22:13] - Sparse SpMM decoder | cycles: 166
+[2023/06/27 21:22:13] - Dense SDMM PE caclulation | cycles: 372
+[2023/06/27 21:22:13] - Sparse SDMM PE caclulation | cycles: 303
+[2023/06/27 21:22:13] - ************
+[2023/06/27 21:22:13] - Dense SpMM dataloader | cycles: 62
+[2023/06/27 21:22:13] - Dense SpMM PE caclulation | cycles: 316
+[2023/06/27 21:22:13] - Sparse SpMM dataloader | cycles: 332
+[2023/06/27 21:22:13] - Sparse SpMM PE caclulation | cycles: 301
+[2023/06/27 21:22:13] - 
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/06/27 21:22:13] - total preloading cycles: 9492
+[2023/06/27 21:22:13] - total processing cycles: 4728
+[2023/06/27 21:22:13] - total Computation cycles: 4709
+[2023/06/27 21:22:13] - 
+[2023/06/27 21:22:13] - ******************************
+[2023/06/27 21:22:13] - Total cycles: 9492
+[2023/12/28 09:35:31] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 0; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 1; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 2; Head: 0
+[2023/12/28 09:35:31] - global tokens: 70
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 3; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 4; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 5; Head: 0
+[2023/12/28 09:35:31] - global tokens: 20
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 6; Head: 0
+[2023/12/28 09:35:31] - global tokens: 17
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 7; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 8; Head: 0
+[2023/12/28 09:35:31] - global tokens: 1
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 9; Head: 0
+[2023/12/28 09:35:31] - global tokens: 9
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 10; Head: 0
+[2023/12/28 09:35:31] - global tokens: 10
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Layer: 11; Head: 0
+[2023/12/28 09:35:31] - global tokens: 31
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:35:31] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:35:31] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:35:31] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:35:31] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:35:31] - ************
+[2023/12/28 09:35:31] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:35:31] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:35:31] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:35:31] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:35:31] - 
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:35:31] - total preloading cycles: 9492
+[2023/12/28 09:35:31] - total processing cycles: 4728
+[2023/12/28 09:35:31] - total Computation cycles: 4709
+[2023/12/28 09:35:31] - 
+[2023/12/28 09:35:31] - ******************************
+[2023/12/28 09:35:31] - Total cycles: 9492
+[2023/12/28 09:44:57] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 0; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 1; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 2; Head: 0
+[2023/12/28 09:44:57] - global tokens: 70
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 3; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 4; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 5; Head: 0
+[2023/12/28 09:44:57] - global tokens: 20
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 6; Head: 0
+[2023/12/28 09:44:57] - global tokens: 17
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 7; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 8; Head: 0
+[2023/12/28 09:44:57] - global tokens: 1
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 9; Head: 0
+[2023/12/28 09:44:57] - global tokens: 9
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 10; Head: 0
+[2023/12/28 09:44:57] - global tokens: 10
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Layer: 11; Head: 0
+[2023/12/28 09:44:57] - global tokens: 31
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:44:57] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:44:57] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:44:57] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:44:57] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:44:57] - ************
+[2023/12/28 09:44:57] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:44:57] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:44:57] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:44:57] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:44:57] - 
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:44:57] - total preloading cycles: 9492
+[2023/12/28 09:44:57] - total processing cycles: 4728
+[2023/12/28 09:44:57] - total Computation cycles: 4709
+[2023/12/28 09:44:57] - 
+[2023/12/28 09:44:57] - ******************************
+[2023/12/28 09:44:57] - Total cycles: 9492
+[2023/12/28 09:57:20] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 0; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 1; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 2; Head: 0
+[2023/12/28 09:57:20] - global tokens: 70
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 3; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 4; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 5; Head: 0
+[2023/12/28 09:57:20] - global tokens: 20
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 6; Head: 0
+[2023/12/28 09:57:20] - global tokens: 17
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 7; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 8; Head: 0
+[2023/12/28 09:57:20] - global tokens: 1
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 9; Head: 0
+[2023/12/28 09:57:20] - global tokens: 9
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 10; Head: 0
+[2023/12/28 09:57:20] - global tokens: 10
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Layer: 11; Head: 0
+[2023/12/28 09:57:20] - global tokens: 31
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:57:20] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:57:20] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:57:20] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:57:20] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:57:20] - ************
+[2023/12/28 09:57:20] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:57:20] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:57:20] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:57:20] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:57:20] - 
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:57:20] - total preloading cycles: 9492
+[2023/12/28 09:57:20] - total processing cycles: 4728
+[2023/12/28 09:57:20] - total Computation cycles: 4709
+[2023/12/28 09:57:20] - 
+[2023/12/28 09:57:20] - ******************************
+[2023/12/28 09:57:20] - Total cycles: 9492
+[2023/12/28 09:57:57] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 0; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 1; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 2; Head: 0
+[2023/12/28 09:57:57] - global tokens: 70
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 3; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 4; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 5; Head: 0
+[2023/12/28 09:57:57] - global tokens: 20
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 6; Head: 0
+[2023/12/28 09:57:57] - global tokens: 17
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 7; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 8; Head: 0
+[2023/12/28 09:57:57] - global tokens: 1
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 9; Head: 0
+[2023/12/28 09:57:57] - global tokens: 9
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 10; Head: 0
+[2023/12/28 09:57:57] - global tokens: 10
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Layer: 11; Head: 0
+[2023/12/28 09:57:57] - global tokens: 31
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:57:57] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:57:57] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:57:57] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:57:57] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:57:57] - ************
+[2023/12/28 09:57:57] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:57:57] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:57:57] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:57:57] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:57:57] - 
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:57:57] - total preloading cycles: 9492
+[2023/12/28 09:57:57] - total processing cycles: 4728
+[2023/12/28 09:57:57] - total Computation cycles: 4709
+[2023/12/28 09:57:57] - 
+[2023/12/28 09:57:57] - ******************************
+[2023/12/28 09:57:57] - Total cycles: 9492
+[2023/12/28 09:58:15] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 0; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 1; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 2; Head: 0
+[2023/12/28 09:58:15] - global tokens: 70
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 3; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 4; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 5; Head: 0
+[2023/12/28 09:58:15] - global tokens: 20
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 6; Head: 0
+[2023/12/28 09:58:15] - global tokens: 17
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 7; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 8; Head: 0
+[2023/12/28 09:58:15] - global tokens: 1
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 9; Head: 0
+[2023/12/28 09:58:15] - global tokens: 9
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 10; Head: 0
+[2023/12/28 09:58:15] - global tokens: 10
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Layer: 11; Head: 0
+[2023/12/28 09:58:15] - global tokens: 31
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:58:15] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:58:15] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:58:15] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:58:15] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:58:15] - ************
+[2023/12/28 09:58:15] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:58:15] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:58:15] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:58:15] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:58:15] - 
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:58:15] - total preloading cycles: 9492
+[2023/12/28 09:58:15] - total processing cycles: 4728
+[2023/12/28 09:58:15] - total Computation cycles: 4709
+[2023/12/28 09:58:15] - 
+[2023/12/28 09:58:15] - ******************************
+[2023/12/28 09:58:15] - Total cycles: 9492
+[2023/12/28 09:58:59] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:58:59] - ******************************
+[2023/12/28 09:58:59] - Layer: 0; Head: 0
+[2023/12/28 09:58:59] - global tokens: 1
+[2023/12/28 09:59:09] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 0; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 1; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 2; Head: 0
+[2023/12/28 09:59:09] - global tokens: 70
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 3; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 4; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 5; Head: 0
+[2023/12/28 09:59:09] - global tokens: 20
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 6; Head: 0
+[2023/12/28 09:59:09] - global tokens: 17
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 7; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 8; Head: 0
+[2023/12/28 09:59:09] - global tokens: 1
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 9; Head: 0
+[2023/12/28 09:59:09] - global tokens: 9
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 10; Head: 0
+[2023/12/28 09:59:09] - global tokens: 10
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Layer: 11; Head: 0
+[2023/12/28 09:59:09] - global tokens: 31
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:59:09] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:59:09] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:59:09] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:59:09] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:59:09] - ************
+[2023/12/28 09:59:09] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:59:09] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:59:09] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:59:09] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:59:09] - 
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:59:09] - total preloading cycles: 9492
+[2023/12/28 09:59:09] - total processing cycles: 4728
+[2023/12/28 09:59:09] - total Computation cycles: 4709
+[2023/12/28 09:59:09] - 
+[2023/12/28 09:59:09] - ******************************
+[2023/12/28 09:59:09] - Total cycles: 9492
+[2023/12/28 09:59:15] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 0; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 1; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 2; Head: 0
+[2023/12/28 09:59:15] - global tokens: 70
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 3; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 4; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 5; Head: 0
+[2023/12/28 09:59:15] - global tokens: 20
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 6; Head: 0
+[2023/12/28 09:59:15] - global tokens: 17
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 7; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 8; Head: 0
+[2023/12/28 09:59:15] - global tokens: 1
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 9; Head: 0
+[2023/12/28 09:59:15] - global tokens: 9
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 10; Head: 0
+[2023/12/28 09:59:15] - global tokens: 10
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Layer: 11; Head: 0
+[2023/12/28 09:59:15] - global tokens: 31
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:59:15] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:59:15] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:59:15] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:59:15] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:59:15] - ************
+[2023/12/28 09:59:15] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:59:15] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:59:15] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:59:15] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:59:15] - 
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:59:15] - total preloading cycles: 9492
+[2023/12/28 09:59:15] - total processing cycles: 4728
+[2023/12/28 09:59:15] - total Computation cycles: 4709
+[2023/12/28 09:59:15] - 
+[2023/12/28 09:59:15] - ******************************
+[2023/12/28 09:59:15] - Total cycles: 9492
+[2023/12/28 09:59:23] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 0; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 1; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 2; Head: 0
+[2023/12/28 09:59:23] - global tokens: 70
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 3; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 4; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 5; Head: 0
+[2023/12/28 09:59:23] - global tokens: 20
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 6; Head: 0
+[2023/12/28 09:59:23] - global tokens: 17
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 7; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 8; Head: 0
+[2023/12/28 09:59:23] - global tokens: 1
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 9; Head: 0
+[2023/12/28 09:59:23] - global tokens: 9
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 10; Head: 0
+[2023/12/28 09:59:23] - global tokens: 10
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Layer: 11; Head: 0
+[2023/12/28 09:59:23] - global tokens: 31
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:59:23] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:59:23] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:59:23] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:59:23] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:59:23] - ************
+[2023/12/28 09:59:23] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:59:23] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:59:23] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:59:23] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:59:23] - 
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:59:23] - total preloading cycles: 9492
+[2023/12/28 09:59:23] - total processing cycles: 4728
+[2023/12/28 09:59:23] - total Computation cycles: 4709
+[2023/12/28 09:59:23] - 
+[2023/12/28 09:59:23] - ******************************
+[2023/12/28 09:59:23] - Total cycles: 9492
+[2023/12/28 09:59:32] - Shape: (12, 3, 197, 64)
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 0; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 1; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 2; Head: 0
+[2023/12/28 09:59:32] - global tokens: 70
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 267
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 3; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 4; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 5; Head: 0
+[2023/12/28 09:59:32] - global tokens: 20
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 217
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 6; Head: 0
+[2023/12/28 09:59:32] - global tokens: 17
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 214
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 7; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 8; Head: 0
+[2023/12/28 09:59:32] - global tokens: 1
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 198
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 9; Head: 0
+[2023/12/28 09:59:32] - global tokens: 9
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 206
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 10; Head: 0
+[2023/12/28 09:59:32] - global tokens: 10
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 207
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Layer: 11; Head: 0
+[2023/12/28 09:59:32] - global tokens: 31
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 09:59:32] - Dense SpMM decoder | cycles: 228
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 09:59:32] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 09:59:32] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 09:59:32] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 09:59:32] - ************
+[2023/12/28 09:59:32] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 09:59:32] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 09:59:32] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 09:59:32] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 09:59:32] - 
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 09:59:32] - total preloading cycles: 9492
+[2023/12/28 09:59:32] - total processing cycles: 4728
+[2023/12/28 09:59:32] - total Computation cycles: 4709
+[2023/12/28 09:59:32] - 
+[2023/12/28 09:59:32] - ******************************
+[2023/12/28 09:59:32] - Total cycles: 9492
+[2023/12/28 11:59:40] - Shape: (12, 3, 197, 64)
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 0; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 1; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 2; Head: 0
+[2023/12/28 11:59:40] - global tokens: 70
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 267
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 71
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 3; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 4; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 5; Head: 0
+[2023/12/28 11:59:40] - global tokens: 20
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 217
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 21
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 6; Head: 0
+[2023/12/28 11:59:40] - global tokens: 17
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 214
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 18
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 7; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 8; Head: 0
+[2023/12/28 11:59:40] - global tokens: 1
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 198
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 2
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 9; Head: 0
+[2023/12/28 11:59:40] - global tokens: 9
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 206
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 10
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 10; Head: 0
+[2023/12/28 11:59:40] - global tokens: 10
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 207
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 11
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Layer: 11; Head: 0
+[2023/12/28 11:59:40] - global tokens: 31
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 11:59:40] - Dense SpMM decoder | cycles: 228
+[2023/12/28 11:59:40] - Input | cycles: 198
+[2023/12/28 11:59:40] - weight | cycles: 32
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 11:59:40] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 11:59:40] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 11:59:40] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 11:59:40] - ************
+[2023/12/28 11:59:40] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 11:59:40] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 11:59:40] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 11:59:40] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 11:59:40] - 
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 11:59:40] - total preloading cycles: 9492
+[2023/12/28 11:59:40] - total processing cycles: 4728
+[2023/12/28 11:59:40] - total Computation cycles: 4709
+[2023/12/28 11:59:40] - 
+[2023/12/28 11:59:40] - ******************************
+[2023/12/28 11:59:40] - Total cycles: 9492
+[2023/12/28 12:01:19] - Shape: (12, 3, 197, 64)
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 0; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 120
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 119
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 115
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 1; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 30
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 30
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 29
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 28
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 2; Head: 0
+[2023/12/28 12:01:19] - global tokens: 70
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 269
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 267
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 71
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 128
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 127
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 840
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 744
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 140
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 767
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 254
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 745
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 3; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 54
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 54
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 54
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 54
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 4; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 75
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 74
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 5; Head: 0
+[2023/12/28 12:01:19] - global tokens: 20
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 219
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 217
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 21
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 178
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 177
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 300
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 270
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 40
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 269
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 354
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 269
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 6; Head: 0
+[2023/12/28 12:01:19] - global tokens: 17
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 216
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 214
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 18
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 181
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 180
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 255
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 213
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 34
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 224
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 360
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 211
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 7; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 87
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 84
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 85
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 82
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 8; Head: 0
+[2023/12/28 12:01:19] - global tokens: 1
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 200
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 198
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 2
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 197
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 196
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 33
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 33
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 2
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 32
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 392
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 31
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 9; Head: 0
+[2023/12/28 12:01:19] - global tokens: 9
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 208
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 206
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 10
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 189
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 188
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 135
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 117
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 18
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 121
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 376
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 116
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 10; Head: 0
+[2023/12/28 12:01:19] - global tokens: 10
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 209
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 207
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 11
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 188
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 187
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 150
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 138
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 20
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 145
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 374
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 136
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Layer: 11; Head: 0
+[2023/12/28 12:01:19] - global tokens: 31
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 230
+[2023/12/28 12:01:19] - Dense SpMM decoder | cycles: 228
+[2023/12/28 12:01:19] - Input | cycles: 198
+[2023/12/28 12:01:19] - weight | cycles: 32
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 167
+[2023/12/28 12:01:19] - Sparse SpMM decoder | cycles: 166
+[2023/12/28 12:01:19] - Dense SDMM PE caclulation | cycles: 372
+[2023/12/28 12:01:19] - Sparse SDMM PE caclulation | cycles: 303
+[2023/12/28 12:01:19] - ************
+[2023/12/28 12:01:19] - Dense SpMM dataloader | cycles: 62
+[2023/12/28 12:01:19] - Dense SpMM PE caclulation | cycles: 316
+[2023/12/28 12:01:19] - Sparse SpMM dataloader | cycles: 332
+[2023/12/28 12:01:19] - Sparse SpMM PE caclulation | cycles: 301
+[2023/12/28 12:01:19] - 
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - number of non-zeros in the sparser region: 0.03630901957304232
+[2023/12/28 12:01:19] - total preloading cycles: 9492
+[2023/12/28 12:01:19] - total processing cycles: 4728
+[2023/12/28 12:01:19] - total Computation cycles: 4709
+[2023/12/28 12:01:19] - 
+[2023/12/28 12:01:19] - ******************************
+[2023/12/28 12:01:19] - Total cycles: 9492
+[2024/01/09 13:27:40] - Shape: (12, 3, 197, 64)
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 0; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 120
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 117
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 119
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 115
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 1; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 30
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 30
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 29
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 28
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 2; Head: 0
+[2024/01/09 13:27:40] - global tokens: 70
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 269
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 267
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 71
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 128
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 127
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 840
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 744
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 140
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 767
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 254
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 745
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 3; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 54
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 54
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 54
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 54
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 4; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 87
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 75
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 85
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 74
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 5; Head: 0
+[2024/01/09 13:27:40] - global tokens: 20
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 219
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 217
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 21
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 178
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 177
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 300
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 270
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 40
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 269
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 354
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 269
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 6; Head: 0
+[2024/01/09 13:27:40] - global tokens: 17
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 216
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 214
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 18
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 181
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 180
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 255
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 213
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 34
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 224
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 360
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 211
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 7; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 87
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 84
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 85
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 82
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 8; Head: 0
+[2024/01/09 13:27:40] - global tokens: 1
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 200
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 198
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 2
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 197
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 196
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 33
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 33
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 2
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 32
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 392
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 31
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 9; Head: 0
+[2024/01/09 13:27:40] - global tokens: 9
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 208
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 206
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 10
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 189
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 188
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 135
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 117
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 18
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 121
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 376
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 116
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 10; Head: 0
+[2024/01/09 13:27:40] - global tokens: 10
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 209
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 207
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 11
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 188
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 187
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 150
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 138
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 20
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 145
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 374
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 136
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Layer: 11; Head: 0
+[2024/01/09 13:27:40] - global tokens: 31
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 230
+[2024/01/09 13:27:40] - Dense SpMM decoder | cycles: 228
+[2024/01/09 13:27:40] - Input | cycles: 198
+[2024/01/09 13:27:40] - weight | cycles: 32
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 167
+[2024/01/09 13:27:40] - Sparse SpMM decoder | cycles: 166
+[2024/01/09 13:27:40] - Dense SDMM PE caclulation | cycles: 372
+[2024/01/09 13:27:40] - Sparse SDMM PE caclulation | cycles: 303
+[2024/01/09 13:27:40] - ************
+[2024/01/09 13:27:40] - Dense SpMM dataloader | cycles: 62
+[2024/01/09 13:27:40] - Dense SpMM PE caclulation | cycles: 316
+[2024/01/09 13:27:40] - Sparse SpMM dataloader | cycles: 332
+[2024/01/09 13:27:40] - Sparse SpMM PE caclulation | cycles: 301
+[2024/01/09 13:27:40] - 
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - number of non-zeros in the sparser region: 0.03630901957304232
+[2024/01/09 13:27:40] - total preloading cycles: 9492
+[2024/01/09 13:27:40] - total processing cycles: 4728
+[2024/01/09 13:27:40] - total Computation cycles: 4709
+[2024/01/09 13:27:40] - 
+[2024/01/09 13:27:40] - ******************************
+[2024/01/09 13:27:40] - Total cycles: 9492

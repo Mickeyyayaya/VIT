@@ -1,0 +1,527 @@
+##Bandwidth
+
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 3203207
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 3203207
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 3203207
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 3316679
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 63312
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 63312
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 63312
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 176784
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 31915
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 31915
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 21545
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 21545
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 16446
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 16446
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 13368
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 13368
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 11122
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 11122
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 9532
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 9532
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 8700
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 8700
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 7263
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 7263
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 6716
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 6716
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 6423
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 6423
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 5938
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 5938
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 5707
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 5707
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 5033
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 5033
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 4802
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 4802
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 4548
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 4548
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 4455
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 4455
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 3923
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 3923
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 3723
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 3723
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Shape: (12, 3, 197, 64)
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - Layer: 0; Head: 0
+[2024/02/01 07:38:31] - Preload Clear | cycles: 200
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 3607
+[2024/02/01 07:38:31] - Embedding decoder | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 56791
+[2024/02/01 07:38:31] - ************
+[2024/02/01 07:38:31] - Embedding dataloader | cycles: 0
+[2024/02/01 07:38:31] - Embedding calcuation | cycles: 113472
+[2024/02/01 07:38:31] - Preload Clear | cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - ******************************
+[2024/02/01 07:38:31] - total linear preprocessing cycles: 0
+[2024/02/01 07:38:31] - total linear preloading cycles: 3607
+[2024/02/01 07:38:31] - total linear computation cycles: 56791
+[2024/02/01 07:38:31] - total linear clear cycles: 200
+[2024/02/01 07:38:31] - total ffn preloading cycles: 0
+[2024/02/01 07:38:31] - total ffn computation cycles: 113472
+[2024/02/01 07:38:31] - total ffn clear cycles: 0
+[2024/02/01 07:38:31] - 
+[2024/02/01 07:38:31] - total linear cycles: 56791
+[2024/02/01 07:38:31] - total ffn cycles: 113472
+[2024/02/01 07:38:31] - total cycles: 170263
+[2024/02/01 07:38:31] - ******************************

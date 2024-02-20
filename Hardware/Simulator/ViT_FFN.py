@@ -139,7 +139,7 @@ for p in args.sparse:
                         preload_cycles += my_SRAM.preload_encoder(nums=head*1, bits=8, bandwidth_ratio=1/(head*args.ratio))
                     # ######### Preprocessing 
                     for k in range(math.ceil((head*1* Q.shape[1])//int(args.PE_width*args.PE_height/(head*args.ratio)))):
-                        PRE_cycles += 1
+                        PRE_cycles += 1 
                     # ######### Store back 
                     preload_cycles += my_SRAM.store_out(nums=1* Q.shape[1], bits=8, bandwidth_ratio=1/(head*args.ratio))
 

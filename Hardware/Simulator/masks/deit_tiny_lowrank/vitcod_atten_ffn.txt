@@ -953,3 +953,1257 @@
 [2024/02/21 11:15:59] - 
 [2024/02/21 11:15:59] - ******************************
 [2024/02/21 11:15:59] - Total cycles: 5346
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 1000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 159
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 348
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3334
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 159
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 350
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 2000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 79
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 344
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 342
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3334
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 79
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 344
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 3000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 52
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3318
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 344
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 342
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3318
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 52
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 344
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 4000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 39
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3316
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 348
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3316
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 39
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 350
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 5000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 31
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3271
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 355
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 353
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3271
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 31
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 355
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 6000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 26
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3318
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 348
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 346
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3318
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 26
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 348
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 7000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 22
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3335
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 329
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 327
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3335
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 22
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 329
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 8000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 19
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3292
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 347
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 345
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3292
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 19
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 347
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Mode: Bandwidth 9000
+[2024/02/22 08:02:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - Layer: 0; Head: 0
+[2024/02/22 08:02:59] - global tokens: 1
+[2024/02/22 08:02:59] - Preload Clear | cycles: 17
+[2024/02/22 08:02:59] - Embedding dataloader | cycles: 3309
+[2024/02/22 08:02:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:02:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - Dense SpMM dataloader | cycles: 310
+[2024/02/22 08:02:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:02:59] - Input | cycles: 308
+[2024/02/22 08:02:59] - weight | cycles: 2
+[2024/02/22 08:02:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:02:59] - ******************************
+[2024/02/22 08:02:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:02:59] - total linear preloading cycles: 3309
+[2024/02/22 08:02:59] - total linear computation cycles: 170373
+[2024/02/22 08:02:59] - total linear clear cycles: 17
+[2024/02/22 08:02:59] - 
+[2024/02/22 08:02:59] - total linear cycles: 170967
+[2024/02/22 08:02:59] - total preloading cycles: 310
+[2024/02/22 08:02:59] - total Computation cycles: 0
+[2024/02/22 08:02:59] - Total cycles: 594
+[2024/02/22 08:05:34] - ******************************
+[2024/02/22 08:05:34] - Mode: Bandwidth 1000
+[2024/02/22 08:05:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:34] - ******************************
+[2024/02/22 08:05:34] - Layer: 0; Head: 0
+[2024/02/22 08:05:34] - global tokens: 1
+[2024/02/22 08:05:34] - Preload Clear | cycles: 159
+[2024/02/22 08:05:34] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:05:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:34] - 
+[2024/02/22 08:05:34] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:05:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:34] - Input | cycles: 348
+[2024/02/22 08:05:34] - weight | cycles: 2
+[2024/02/22 08:05:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:39] - ******************************
+[2024/02/22 08:05:39] - Mode: Bandwidth 1000
+[2024/02/22 08:05:39] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:39] - ******************************
+[2024/02/22 08:05:39] - Layer: 0; Head: 0
+[2024/02/22 08:05:39] - global tokens: 1
+[2024/02/22 08:05:39] - Preload Clear | cycles: 159
+[2024/02/22 08:05:39] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:05:39] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:39] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:39] - 
+[2024/02/22 08:05:39] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:05:39] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:39] - Input | cycles: 348
+[2024/02/22 08:05:39] - weight | cycles: 2
+[2024/02/22 08:05:39] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 1000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 159
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 348
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3334
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 159
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 350
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 2000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 79
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3334
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 344
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 342
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3334
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 79
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 344
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 3000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 52
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3318
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 344
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 342
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3318
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 52
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 344
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 4000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 39
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3316
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 348
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3316
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 39
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 350
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 5000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 31
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3271
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 355
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 353
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3271
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 31
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 355
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 6000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 26
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3318
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 348
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 346
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3318
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 26
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 348
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 7000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:05:59] - Preload Clear | cycles: 22
+[2024/02/22 08:05:59] - Embedding dataloader | cycles: 3335
+[2024/02/22 08:05:59] - Embedding decoder | cycles: 0
+[2024/02/22 08:05:59] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - Dense SpMM dataloader | cycles: 329
+[2024/02/22 08:05:59] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:05:59] - Input | cycles: 327
+[2024/02/22 08:05:59] - weight | cycles: 2
+[2024/02/22 08:05:59] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - total linear preprocessing cycles: 594
+[2024/02/22 08:05:59] - total linear preloading cycles: 3335
+[2024/02/22 08:05:59] - total linear computation cycles: 170373
+[2024/02/22 08:05:59] - total linear clear cycles: 22
+[2024/02/22 08:05:59] - 
+[2024/02/22 08:05:59] - total linear cycles: 170967
+[2024/02/22 08:05:59] - total preloading cycles: 329
+[2024/02/22 08:05:59] - total Computation cycles: 360
+[2024/02/22 08:05:59] - Total cycles: 954
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Mode: Bandwidth 8000
+[2024/02/22 08:05:59] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:05:59] - ******************************
+[2024/02/22 08:05:59] - Layer: 0; Head: 0
+[2024/02/22 08:05:59] - global tokens: 1
+[2024/02/22 08:06:00] - Preload Clear | cycles: 19
+[2024/02/22 08:06:00] - Embedding dataloader | cycles: 3292
+[2024/02/22 08:06:00] - Embedding decoder | cycles: 0
+[2024/02/22 08:06:00] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:06:00] - 
+[2024/02/22 08:06:00] - Dense SpMM dataloader | cycles: 347
+[2024/02/22 08:06:00] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:06:00] - Input | cycles: 345
+[2024/02/22 08:06:00] - weight | cycles: 2
+[2024/02/22 08:06:00] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:06:00] - ******************************
+[2024/02/22 08:06:00] - total linear preprocessing cycles: 594
+[2024/02/22 08:06:00] - total linear preloading cycles: 3292
+[2024/02/22 08:06:00] - total linear computation cycles: 170373
+[2024/02/22 08:06:00] - total linear clear cycles: 19
+[2024/02/22 08:06:00] - 
+[2024/02/22 08:06:00] - total linear cycles: 170967
+[2024/02/22 08:06:00] - total preloading cycles: 347
+[2024/02/22 08:06:00] - total Computation cycles: 360
+[2024/02/22 08:06:00] - Total cycles: 954
+[2024/02/22 08:06:00] - ******************************
+[2024/02/22 08:06:00] - Mode: Bandwidth 9000
+[2024/02/22 08:06:00] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:06:00] - ******************************
+[2024/02/22 08:06:00] - Layer: 0; Head: 0
+[2024/02/22 08:06:00] - global tokens: 1
+[2024/02/22 08:06:00] - Preload Clear | cycles: 17
+[2024/02/22 08:06:00] - Embedding dataloader | cycles: 3309
+[2024/02/22 08:06:00] - Embedding decoder | cycles: 0
+[2024/02/22 08:06:00] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:06:00] - 
+[2024/02/22 08:06:00] - Dense SpMM dataloader | cycles: 310
+[2024/02/22 08:06:00] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:06:00] - Input | cycles: 308
+[2024/02/22 08:06:00] - weight | cycles: 2
+[2024/02/22 08:06:00] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:06:00] - ******************************
+[2024/02/22 08:06:00] - total linear preprocessing cycles: 594
+[2024/02/22 08:06:00] - total linear preloading cycles: 3309
+[2024/02/22 08:06:00] - total linear computation cycles: 170373
+[2024/02/22 08:06:00] - total linear clear cycles: 17
+[2024/02/22 08:06:00] - 
+[2024/02/22 08:06:00] - total linear cycles: 170967
+[2024/02/22 08:06:00] - total preloading cycles: 310
+[2024/02/22 08:06:00] - total Computation cycles: 360
+[2024/02/22 08:06:00] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 100
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 762
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 2704
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 398
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 395
+[2024/02/22 08:10:49] - weight | cycles: 3
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 2704
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 762
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 398
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 200
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 573
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3277
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 326
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 324
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3277
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 573
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 326
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 300
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 510
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3832
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 366
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3832
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 510
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 368
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 400
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 401
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3663
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 389
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 387
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3663
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 401
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 389
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 500
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 320
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3520
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 348
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3520
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 320
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 350
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 600
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 267
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3465
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 366
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3465
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 267
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 368
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 700
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 229
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3326
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 380
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 378
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3326
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 229
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 380
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 800
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 200
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3376
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 355
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 353
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3376
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 200
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 355
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Mode: Bandwidth 900
+[2024/02/22 08:10:49] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - Layer: 0; Head: 0
+[2024/02/22 08:10:49] - global tokens: 1
+[2024/02/22 08:10:49] - Preload Clear | cycles: 178
+[2024/02/22 08:10:49] - Embedding dataloader | cycles: 3308
+[2024/02/22 08:10:49] - Embedding decoder | cycles: 0
+[2024/02/22 08:10:49] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:10:49] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:10:49] - Input | cycles: 366
+[2024/02/22 08:10:49] - weight | cycles: 2
+[2024/02/22 08:10:49] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:10:49] - ******************************
+[2024/02/22 08:10:49] - total linear preprocessing cycles: 594
+[2024/02/22 08:10:49] - total linear preloading cycles: 3308
+[2024/02/22 08:10:49] - total linear computation cycles: 170373
+[2024/02/22 08:10:49] - total linear clear cycles: 178
+[2024/02/22 08:10:49] - 
+[2024/02/22 08:10:49] - total linear cycles: 170967
+[2024/02/22 08:10:49] - total preloading cycles: 368
+[2024/02/22 08:10:49] - total Computation cycles: 360
+[2024/02/22 08:10:49] - Total cycles: 954
+[2024/02/22 08:17:35] - ******************************
+[2024/02/22 08:17:35] - Mode: Bandwidth 100
+[2024/02/22 08:17:35] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:17:35] - ******************************
+[2024/02/22 08:17:35] - Layer: 0; Head: 0
+[2024/02/22 08:17:35] - global tokens: 1
+[2024/02/22 08:17:35] - Preload Clear | cycles: 762
+[2024/02/22 08:17:35] - Embedding dataloader | cycles: 2704
+[2024/02/22 08:17:35] - Embedding decoder | cycles: 0
+[2024/02/22 08:17:35] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:17:35] - 
+[2024/02/22 08:17:35] - Dense SpMM dataloader | cycles: 398
+[2024/02/22 08:17:35] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:17:35] - Input | cycles: 395
+[2024/02/22 08:17:35] - weight | cycles: 3
+[2024/02/22 08:17:35] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 100
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 762
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 2704
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 398
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 395
+[2024/02/22 08:20:06] - weight | cycles: 3
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 2704
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 762
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 400
+[2024/02/22 08:20:06] - total Computation cycles: 598
+[2024/02/22 08:20:06] - Total cycles: 1192
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 200
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 573
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3277
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 326
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 324
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3277
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 573
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 328
+[2024/02/22 08:20:06] - total Computation cycles: 836
+[2024/02/22 08:20:06] - Total cycles: 1430
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 300
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 510
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3832
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 366
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3832
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 510
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 370
+[2024/02/22 08:20:06] - total Computation cycles: 1074
+[2024/02/22 08:20:06] - Total cycles: 1668
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 400
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 401
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3663
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 389
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 387
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3663
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 401
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 391
+[2024/02/22 08:20:06] - total Computation cycles: 1312
+[2024/02/22 08:20:06] - Total cycles: 1906
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 500
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 320
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3520
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 348
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3520
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 320
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 352
+[2024/02/22 08:20:06] - total Computation cycles: 1550
+[2024/02/22 08:20:06] - Total cycles: 2144
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 600
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 267
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3465
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 366
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3465
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 267
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 370
+[2024/02/22 08:20:06] - total Computation cycles: 1788
+[2024/02/22 08:20:06] - Total cycles: 2382
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 700
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 229
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3326
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 380
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 378
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3326
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 229
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 382
+[2024/02/22 08:20:06] - total Computation cycles: 2026
+[2024/02/22 08:20:06] - Total cycles: 2620
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 800
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 200
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3376
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 355
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 353
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3376
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 200
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 357
+[2024/02/22 08:20:06] - total Computation cycles: 2264
+[2024/02/22 08:20:06] - Total cycles: 2858
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Mode: Bandwidth 900
+[2024/02/22 08:20:06] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - Layer: 0; Head: 0
+[2024/02/22 08:20:06] - global tokens: 1
+[2024/02/22 08:20:06] - Preload Clear | cycles: 178
+[2024/02/22 08:20:06] - Embedding dataloader | cycles: 3308
+[2024/02/22 08:20:06] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:06] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:06] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:06] - Input | cycles: 366
+[2024/02/22 08:20:06] - weight | cycles: 2
+[2024/02/22 08:20:06] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:06] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:06] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:06] - ******************************
+[2024/02/22 08:20:06] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:06] - total linear preloading cycles: 3308
+[2024/02/22 08:20:06] - total linear computation cycles: 170373
+[2024/02/22 08:20:06] - total linear clear cycles: 178
+[2024/02/22 08:20:06] - 
+[2024/02/22 08:20:06] - total linear cycles: 170967
+[2024/02/22 08:20:06] - total preloading cycles: 370
+[2024/02/22 08:20:06] - total Computation cycles: 2502
+[2024/02/22 08:20:06] - Total cycles: 3096
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 100
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 762
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 2704
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 398
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 395
+[2024/02/22 08:20:34] - weight | cycles: 3
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 2704
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 762
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 400
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 200
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 573
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3277
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 326
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 324
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3277
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 573
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 328
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 300
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 510
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3832
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 366
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3832
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 510
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 370
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 400
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 401
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3663
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 389
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 387
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3663
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 401
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 391
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 500
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 320
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3520
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 350
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 348
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3520
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 320
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 352
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 600
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 267
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3465
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 366
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3465
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 267
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 370
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 700
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 229
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3326
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 380
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 378
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3326
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 229
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 382
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 800
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 200
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3376
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 355
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 353
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3376
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 200
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 357
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Mode: Bandwidth 900
+[2024/02/22 08:20:34] - Shape: (12, 3, 197, 64)
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - Layer: 0; Head: 0
+[2024/02/22 08:20:34] - global tokens: 1
+[2024/02/22 08:20:34] - Preload Clear | cycles: 178
+[2024/02/22 08:20:34] - Embedding dataloader | cycles: 3308
+[2024/02/22 08:20:34] - Embedding decoder | cycles: 0
+[2024/02/22 08:20:34] - Embedding calcuation | cycles: 170373
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 368
+[2024/02/22 08:20:34] - Dense SpMM decoder | cycles: 594
+[2024/02/22 08:20:34] - Input | cycles: 366
+[2024/02/22 08:20:34] - weight | cycles: 2
+[2024/02/22 08:20:34] - Dense SDMM PE caclulation | cycles: 360
+[2024/02/22 08:20:34] - Dense SpMM dataloader | cycles: 2
+[2024/02/22 08:20:34] - Dense SpMM PE caclulation | cycles: 238
+[2024/02/22 08:20:34] - ******************************
+[2024/02/22 08:20:34] - total linear preprocessing cycles: 594
+[2024/02/22 08:20:34] - total linear preloading cycles: 3308
+[2024/02/22 08:20:34] - total linear computation cycles: 170373
+[2024/02/22 08:20:34] - total linear clear cycles: 178
+[2024/02/22 08:20:34] - 
+[2024/02/22 08:20:34] - total linear cycles: 170967
+[2024/02/22 08:20:34] - total preloading cycles: 370
+[2024/02/22 08:20:34] - total Computation cycles: 598
+[2024/02/22 08:20:34] - Total cycles: 1192

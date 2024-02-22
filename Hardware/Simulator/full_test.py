@@ -52,7 +52,7 @@ total_PRE_cycles = 0
 total_input_cycles = 0
 total_weight_cycles = 0
 
-for sram_size in range(1000,10000,1000):
+for sram_size in range(100,1000,100):
     log.info('***' * 10)
     log.info('Mode: Bandwidth {}'.format(sram_size))
     for p in args.sparse:
@@ -267,7 +267,25 @@ for sram_size in range(1000,10000,1000):
                             dense_SDDMM_PE_cycles += 1
                             dense_SDDMM_PE_cycles += math.ceil(int(args.PE_width*args.PE_height/head)/element)
                 log.info('Dense SDMM PE caclulation | cycles: {}'.format(dense_SDDMM_PE_cycles))
+                SDDMM_PE_cycles = dense_SDDMM_PE_cycles
+                total_SDDMM_PE_cycles += SDDMM_PE_cycles
 
+
+                attn_map = np.zeros((Q.shape[0], K.shape[0]))
+                preload_cycles = 0
+                for _tile_k in range(global_tokens):
+                    cycles, status = my_SRAM.preload_V(nums=head*1* V.shape[1], bits=8, bandwidth_ratio=1)  
+                    preload_cycles += cycles
+                total_preload_cycles += preload_cycles
+                log.info('Dense SpMM dataloader | cycles: {}'.format(preload_cycles))
+                # ############## dense pattern s*v ##############
+                dense_SpMM_PE_cycles = 0
+                for _tile_attn in range(math.ceil((V.shape[0]*V.shape[1]*global_tokens) / int(dense_PE_width*args.PE_width/head))):
+                    dense_SpMM_PE_cycles += 1
+                    dense_SpMM_PE_cycles += math.ceil(int(dense_PE_width*args.PE_width/head)/element)
+                log.info('Dense SpMM PE caclulation | cycles: {}'.format(dense_SpMM_PE_cycles))
+                SpMM_PE_cycles = dense_SpMM_PE_cycles
+                total_SpMM_PE_cycles += SpMM_PE_cycles
 
     log.info('***' * 10)
     log.info('total linear preprocessing cycles: {}'.format(total_PRE_cycles))
@@ -277,26 +295,19 @@ for sram_size in range(1000,10000,1000):
 
     log.info('')
     linear = max(total_linear_PE_cycles+total_PRE_cycles,total_preload_linear_cycles)
-    ffn = max(total_ffn_PE_cycles ,total_preload_ffn_cycles)
     log.info('total linear cycles: {}'.format(linear))
-    log.info('total cycles: {}'.format(ffn+linear))
-    log.info('***' * 10)
 
-
-    log.info('')
-    log.info('***' * 10)
 
     log.info('total preloading cycles: {}'.format(total_preload_cycles))
-    log.info('total processing cycles: {}'.format(total_PRE_cycles))
     log.info('total Computation cycles: {}'.format(total_SDDMM_PE_cycles+total_SpMM_PE_cycles))
-
-    log.info('')
-    log.info('***' * 10)
     log.info('Total cycles: {}'.format(max(total_preload_cycles, total_PRE_cycles+total_SDDMM_PE_cycles+total_SpMM_PE_cycles)))
 
 
 
-
+    total_PRE_cycles = 0
     total_preload_linear_cycles = 0
     total_linear_PE_cycles= 0
     total_preload_clear= 0
+    total_preload_cycles = 0
+    total_SDDMM_PE_cycles = 0
+    total_SpMM_PE_cycles = 0

@@ -9,6 +9,35 @@ import logging
 import os
 import math
 import argparse
+import csv
+import logging
+
+def initialize_logging(csv_path):
+    titles = [
+        "Mode: Bandwidth",
+        "Shape",
+        "Preload Clear | cycles",
+        "Embedding dataloader | cycles",
+        "Embedding decoder | cycles",
+        "Embedding calculation | cycles",
+        "Dense SpMM dataloader | cycles",
+        "Dense SpMM decoder | cycles",
+        "Input | cycles",
+        "Weight | cycles",
+        "Dense SDMM PE calculation | cycles",
+        "Dense SpMM PE calculation | cycles",
+        "Total linear preprocessing cycles",
+        "Total linear preloading cycles",
+        "Total linear computation cycles",
+        "Total linear clear cycles",
+        "Total linear cycles",
+        "Total preloading cycles",
+        "Total Computation cycles",
+        "Total cycles"
+    ]
+    with open(csv_path, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(titles)  # Write titles as the first row
 
 def get_args_parser():
     parser = argparse.ArgumentParser('ViTCoD attn similation script', add_help=False)
@@ -21,12 +50,22 @@ def get_args_parser():
     parser.add_argument('--PE_height', default=8, type=int)
     return parser
 
+def log_values(csv_path, values):
+    with open(csv_path, 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(values)
+
+# Path to your CSV file
+csv_path = "log_info_sram.csv"
+
+# Initialize logging before your loop starts
+initialize_logging(csv_path)
+
 parser = argparse.ArgumentParser('ViTCoD attn similation script', parents=[get_args_parser()])
 args = parser.parse_args()
-
 log = logging.getLogger()
 
-log_path = os.path.join(args.root, 'vitcod_atten_ffn.txt')
+log_path = os.path.join(args.root, '.txt')
 handlers = [logging.FileHandler(log_path, mode='a+'),
             logging.StreamHandler()]
 logging.basicConfig(
@@ -52,9 +91,11 @@ total_PRE_cycles = 0
 total_input_cycles = 0
 total_weight_cycles = 0
 
-for sram_size in range(100,1000,100):
+
+for sram_size in range(100,10000,100):
     log.info('***' * 10)
     log.info('Mode: Bandwidth {}'.format(sram_size))
+    values = [sram_size]
     for p in args.sparse:
         attn_map_mask = np.load(args.root+'/reodered_info_'+str(p)+'.npy')
         num_global_tokens = np.load(args.root+'/global_token_info_'+str(p)+'.npy')
@@ -62,6 +103,7 @@ for sram_size in range(100,1000,100):
         all_K = np.random.random((attn_map_mask.shape[0], attn_map_mask.shape[1], attn_map_mask.shape[2], args.feature_dim))
         all_V = np.random.random((attn_map_mask.shape[0], attn_map_mask.shape[1], attn_map_mask.shape[2], args.feature_dim))
         log.info('Shape: {}'.format(all_V.shape))
+        values.append(all_V.shape)
         
         # TODO: Setting the size
         #sram_size = 100*8
@@ -200,6 +242,7 @@ for sram_size in range(100,1000,100):
                 log.info('Embedding dataloader | cycles: {}'.format(preload_cycles))
                 log.info('Embedding decoder | cycles: {}'.format(PRE_cycles))
                 log.info('Embedding calcuation | cycles: {}'.format(SDDMM_PE_cycles))    
+                values.extend((preload_clear,preload_cycles,PRE_cycles,SDDMM_PE_cycles))
                 my_SRAM.preload_weight(nums=Q.shape[1], bits=8, bandwidth_ratio=1/head)  
 
                 log.info('')
@@ -256,7 +299,8 @@ for sram_size in range(100,1000,100):
                 log.info('Dense SpMM decoder | cycles: {}'.format(PRE_cycles))
                 log.info('Input | cycles: {}'.format(input_cycles))
                 log.info('weight | cycles: {}'.format(weight_cycles))
-                dense_ratio = global_tokens*Q.shape[0]/(len(sparser) + global_tokens*Q.shape[0])
+                values.extend((preload_cycles,PRE_cycles,input_cycles,weight_cycles))
+                dense_ratio = 1
                 dense_PE_width = int(args.PE_width*dense_ratio)
                 sparse_PE_width = args.PE_width - dense_PE_width
                 # ############## dense pattern q*k ##############
@@ -267,6 +311,7 @@ for sram_size in range(100,1000,100):
                             dense_SDDMM_PE_cycles += 1
                             dense_SDDMM_PE_cycles += math.ceil(int(args.PE_width*args.PE_height/head)/element)
                 log.info('Dense SDMM PE caclulation | cycles: {}'.format(dense_SDDMM_PE_cycles))
+                values.append(dense_SDDMM_PE_cycles)
                 SDDMM_PE_cycles = dense_SDDMM_PE_cycles
                 total_SDDMM_PE_cycles += SDDMM_PE_cycles
 
@@ -278,12 +323,14 @@ for sram_size in range(100,1000,100):
                     preload_cycles += cycles
                 total_preload_cycles += preload_cycles
                 log.info('Dense SpMM dataloader | cycles: {}'.format(preload_cycles))
+                values.append(preload_cycles)
                 # ############## dense pattern s*v ##############
                 dense_SpMM_PE_cycles = 0
                 for _tile_attn in range(math.ceil((V.shape[0]*V.shape[1]*global_tokens) / int(dense_PE_width*args.PE_width/head))):
                     dense_SpMM_PE_cycles += 1
                     dense_SpMM_PE_cycles += math.ceil(int(dense_PE_width*args.PE_width/head)/element)
                 log.info('Dense SpMM PE caclulation | cycles: {}'.format(dense_SpMM_PE_cycles))
+                values.append(dense_SpMM_PE_cycles)
                 SpMM_PE_cycles = dense_SpMM_PE_cycles
                 total_SpMM_PE_cycles += SpMM_PE_cycles
 
@@ -292,17 +339,18 @@ for sram_size in range(100,1000,100):
     log.info('total linear preloading cycles: {}'.format(total_preload_linear_cycles))
     log.info('total linear computation cycles: {}'.format(total_linear_PE_cycles))
     log.info('total linear clear cycles: {}'.format(total_preload_clear))
+    values.extend((total_PRE_cycles,total_preload_linear_cycles,total_linear_PE_cycles,total_preload_clear))
 
     log.info('')
     linear = max(total_linear_PE_cycles+total_PRE_cycles,total_preload_linear_cycles)
     log.info('total linear cycles: {}'.format(linear))
-
+    values.append(linear)
 
     log.info('total preloading cycles: {}'.format(total_preload_cycles))
     log.info('total Computation cycles: {}'.format(total_SDDMM_PE_cycles+total_SpMM_PE_cycles))
     log.info('Total cycles: {}'.format(max(total_preload_cycles, total_PRE_cycles+total_SDDMM_PE_cycles+total_SpMM_PE_cycles)))
-
-
+    values.extend((total_preload_cycles,total_SDDMM_PE_cycles+total_SpMM_PE_cycles,max(total_preload_cycles, total_PRE_cycles+total_SDDMM_PE_cycles+total_SpMM_PE_cycles)))
+    log_values(csv_path, values)
 
     total_PRE_cycles = 0
     total_preload_linear_cycles = 0
@@ -311,3 +359,4 @@ for sram_size in range(100,1000,100):
     total_preload_cycles = 0
     total_SDDMM_PE_cycles = 0
     total_SpMM_PE_cycles = 0
+    values.clear()

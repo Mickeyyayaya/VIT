@@ -13,5 +13,9 @@ import argparse
 
 bandwidth = 76.8 * 1024 * 1024 * 1024 * 8 
 freq = 500*1e6
+b = [1]
+b.extend((2,3,4))
 a = math.ceil(bandwidth / (freq*8))
-print(a)
+print(b)
+b.clear()
+print(b)
